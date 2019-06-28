@@ -1,0 +1,40 @@
+int cut8()
+{
+printf("                                                                 .dNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmNNh.          \n");
+printf("                                          `.```                  :NMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNMMN/        \n"); 
+printf(" PAI DE JOAO FOI ATINGIDO               ./ohmmmmmddho.            `mMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNMMMNNNNNNNNNNNMNNNNNMMMMM-        \n");
+printf("                                    :dNNNNmmddddddmms.          /MMMMMMMMMMMMMMMMMMMMMMMMMMNMMMNNNMMNNNNNNNNNMMMNMMMMMMMMh        \n");
+printf("                                  -ymmmNNmmddhhhyyhhdd+`        +MMMMMMMMMMMMMMMMMMMMNNMMNNNMMMNNNNNNMMNNMMMMMMMMMMMMMMMMM-       \n");
+printf("                                 omNNmmNNNmmmmhyyyyhhdmy-       `mMMMMMMMMMMMMMMMMMMNMMMMMMMMNNNMNNMMMMMMMMMMMMMMMMMMMMMMMy       \n");
+printf("                                sNNNNNNNNNNmNNmddmmdddmdd:       .//:+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-      \n");
+printf("                               /NNmmNNmmdddddmdhdmmmmdddmm-          .NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh      \n");
+printf("                               sMNNNMNNmddhmNNNmdhdmmmmdmNd/.         NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN+`    \n");
+printf("                               +NNNMNNNmmmmmdddmdyhhddmmmNNNmo`       dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmy::. \n");
+printf("                               sMNMMNNNdNNNNNNmdhdddddmmmmNNNMm:      /NNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmddddo\n");
+printf("                               mMMMMNNNmNNmmmmmmmddddmmNNNNMNNMN.      /mNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmmmmmNy\n");
+printf("                              .MMMMMNNNmdmdddhddddddmmNMMNNNNMMM:       .omMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmmNNNNMy\n");
+printf("                              yMMMMMMNNNNmmdhhhhdmmmmNMMMNNNNNNMs         .sNNNNNNMMMMMMMMNNNmNNMMMMMMMMMMMMMMMMMMMMMMMMNNNNMNMNNs\n");
+printf("                             +MMMMMMMMNNNNNNNmmdddmmNMMMMMNNNNNMN`          .smmmmNMMMNmmmmNNmmmNMMMMMMMMMMMMMMMMMMMMMMMNNNmmmNmdo\n");
+printf("                            /NMMMMMNMMMMNNNNNNNNNmmmMMMMMMNNNNNMN`            -smmmNNmmmmmmmmmmmNNNNMMMMMMMMMMMMMMMNNNNNmmddddmddo\n");
+printf("                           /NMMMMMMMMMMMNNNNNNmNNmNNNNMMMMMMMMMMh               -ymNNmmmmmmmdmmmNNNNNNMMMMMMMMMMNNNNNNmddddhdddddo\n");
+printf("                   `.-:/+oyNMMMMMMMMMMMNNNmNmmmmNmNNNMMMNNNNNNNNs.                -yNNNNmmmmNNNNNNmmmmmmmmmmmNNNNmmmddddddddddddms\n");
+printf("                   ./ymNNNNMMMMNNMNNNNNNmdmmmmmmmNmmNNNmmmmmmmmmmdy+.               -sdNNNNNNNNNNNNmmmmmmmmmmNNNNmmmmmmdddddmmNNNs\n");
+printf("                .:oyhmNNNNmmNNMMMNNNNmddhhddhdmmNNNNNmmmmmmmmmmmmmNmds-               `:oydmmmmmMMNNNmmmmmmmNNNNNNmmmmmdmmmNNNmddo\n");
+printf("             `/ydmmmmmNNNNmmNNNMMMMMNNNhhdddhmNNNNmmmNNNNNmmmmmmmNNNmmmy-                 `....:MMMMMNNNmmmNNNNNNmmmmmmmmmmmmdddds\n");
+printf("           `/hmmmmNmmmmNNNNNNNNNNNMMMMNdhmdhdNNNNNNNNNNNNmmmmmmNNNNMNmmNm-                   `.oMMMMMMMNNNNNNNNNmmmmmmmmmmdddddmms\n");
+printf("          -hmmmmmNNNmmNNNMMMMMMMMNNNMMNmdddmNNNNNNNNNNmmmmmmmmmmmmmNNmmNNd-              `./sdNMMMMMMMMMMMNNNNNmmmmmmmmmmmmmmmmmms\n");
+printf("         .mNNNNmmNMNNNNMMMMMMMMMMMMNNNMNmddmNNNNNNNNmmmmmmmmmmmmmmmmNmmNNNd:         `.:oyNMMMMMMMMMNNNNMNNNNmNNNNmmmmmmmmmmmmmmms\n");
+printf("        `hNMMNNNNMMNMMMMMMMMMMMMMMMNNNNNmmdNNmNNNNNmmmmmmmmmmmmmmmmmmmNNNNmd/    `.:oyhNNMMMMMMMMMMMNNNNmNNNNNNNNNNNNmmmmmmmmmmmms\n");
+printf("       `hNmMMMNNMMMMMMMMMMMMMMMMMMMMNNNNNmdNNNNNNNNNmmmmmmmmNNNNmmmmmmNNNNmmm+:+ydmdmNNNNMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNmmmmmmmms\n");
+printf("      `sNNNMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNmmNNNNNNNNNNNmmmmmNNNNMNNNmmmNmmdmmmmmddmmmNNNNNNMMNNMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNy\n");
+printf("     `smmmNMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNmNNNNNNNNNNNmmmmNNNmmmmNNNNmdddddmmmNmmNmmNNMNNMNNMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNmmmmms\n");
+printf("    :dNNNNNNNMMMMMMMMMNNNNNNNNNNNNNNNNNNNmNNNNNNNNNNmmmmmNNmmmmmmmmmmmmdddmdmmmmNNNNNNNNNMMNMMMMMMMMMMMMMMMMMNNNNNNNmmmmmmmmddddds\n");
+printf("  `sMMMMNNNNNMMMMMMNMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmdddddddddmmNmmdddmmNmNNNNNNNNNMMMMMMMMMMMMMMMMMMMMNNNNNNNmmmdddddddddds\n");
+printf(" /mNNNMMMNNNMMMMMMMNMMMNNNNNNNNNmmNNNNNNNmddmmmdddhhhhhhyyyyyhddmmmmmmmNmmmdmNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMNNNNNNmmmmmmdmmmmmmdds\n");
+printf(" dmNNNNNNMNNNMMMMMMMMMMNNNNNNNNNNmNNNNmdddhhhhhyyyyyyyyyyyyyyydmmmmNmmmNNmmNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMNNNNNNNNmmmmmmmmmmmmmmmms\n");
+printf(".mmmmNNNNNNNNMMMMMMMMMMMNNNNNNNNNNmmmdhhhhhhdmmmdddddddhhhddddmmmmmNNNNNNNNNNNMMMMMMMMMMNNmhyo/:yMMMMMMMNNNNNNNNmmmmmmmmmmmmmdmmms\n");
+printf(":NNNNmmmmNNNNNNNNMMMMMMMNNNNNNNNmmdhhdmNNNNNNNNNNNNNNNmmddhddmmNNmmNNNNMMMMMMMMMNNNNmho/-`     oNMMMMMMNNNNNmmmmmmmmmmmmmmmmmmmmms\n");
+printf("oNNNmmmmNNNNNNNNNNNMMMMMMNNNmNmmmmdhhhdmNNNNNNNNNNNNNNmmdddmNNMMMNmNMMMMMMMMMMMMs             oMMMMMMNNNNNmmmmmmmmmmmdddmmmmmmmmms\n");
+printf("oNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmNNNNmmmddmNmmmmmmmmmmNNMMMMMMMMMMMMMMMMMMMMMs          /ymMMMMMMNNNNNNmNmmmmmmmmmmmmmmmmmmmmms\n");
+printf(" +ssssssyssyyyyyyyyyyyyyyyyyyyhhhhhhhyyyyyyyyyyyhddddmNNMMMMMMMMMMMMMMMMMMMMMMMMs         .MMMMMMMNNNNNNNNmNNmNNmmmmmmmmmmmmmmmmms\n");
+}

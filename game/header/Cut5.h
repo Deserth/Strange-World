@@ -1,0 +1,40 @@
+int cut5()
+{                       
+printf("                                                              .ymmmdyo:` \n");                                                         
+printf("                                                              yhdmmmmmmd: \n");                                                         
+printf("                                                           .mNdhddmmmmmNs  \n");                                                        
+printf("                                                           `mNmdmmmmNNNNN+  \n");                                                       
+printf("                                                           `mmmddmmNNNNNh.  \n");                                                       
+printf("                                                         :smNmysyyhdmdm+`  \n");                                                        
+printf("                                                      :ymmNNmh+//oyymNNmo-  \n");                                                      
+printf("                                                     `sdmmmNmddy+ohmNddNNNm+ \n");                                                      
+printf("                                                  .-ohdmdddNdyhsoshmhhdNNmmmy/`\n");                                                    
+printf("                                                 `hdmmmdhhhhyhmdhyshmdmmmmmmmNh/ \n");                                                  
+printf("                                                 -mmmmhyysoosshmddhdydmmNNmmmNNh` \n");                                                 
+printf("                                                 /mddmdyyshdhysdmmmydmdmmmmmNNNd` \n");                                                 
+printf("                                                 +mmmmmhyydNmdhymmyhmNdhdddNNNmd- \n");                                                 
+printf("                                                `ymmmNNNddmNmdhyyhmmNmhhhdNNNNNmy  \n");                                                
+printf("                                                +dmmNNNNNdmNNmdyhddmNNmddNNNmmNNm- \n");                                                
+printf("                                                ymmmNNNNNmmNNdddddmmNNdddddmdmNNN+\n");                                                
+printf("26 de junho um por do sol chuvoso e escuro.   smmmmmmmNNmmNmmNddmmmdyhdhdmmNNNm:\n");                                                 
+printf("  -Olá! Seja quem for, porque me enviou        `-ohmNmmmmNNNmdddddmmdddmmNNmdho- \n");                                                 
+printf(" aquela carta? - João                              `-hNNmmmmmmmddmmmNNNNNNd:-` \n");                                                    
+printf("  -Olá garoto! Como você está?                     /hmNmNNmmNNNNmNNNNNNNNm`\n");                                                       
+printf(" -Alguém que conhece nosso herói                   .dddmmmmmmNNNmNNNmmmNNNm-\n");                                                       
+printf(" -Como é possível, você desapareceu                 odmmmmmNNmNNNmNNNNNNNNNNy\n");                                                       
+printf("junto com minha irmã!-João                         `dmmmddNNmmmmmmNNNNNNNNNNm- \n");                                                     
+printf("                                                  /dmmddNNNmmNNdmNNNNNNNNNNNs  \n");                                                    
+printf("                                                 ydmmdNNNddmNNdmNNNNNNNNNNNm.  \n");                                                   
+printf("                                                 -dmmmNNNmdmNNNmNNNmNNNNNNNNmo  \n");                                                   
+printf("                                                -dmmmNNNmmmNNNmNNNNNNNNNmmmNNd` \n");                                                   
+printf("                                               -dmmNNNNNmmNNNmmNNNmmmNmmmmNNNm/ \n");                                                   
+printf("                                              -dmmNNNNmNNNNNmmmNNmmmmNmNNmmNNNy  \n");                                                  
+printf("                                             -dmmmNNNNmmmmmmmmNNmmmmmmNNmmmmmmm- \n");                                                  
+printf("                                            -dmmmmmmmmmmmmmddmmmmmddmmmmmmmmmmmy  \n");                                                 
+printf("                                           .hmmmdmmmmmmmmd:-smh::::::hmmmmmmmmmd-\n");                                                  
+printf("                                           +mmh.`dmmmmmmmh  hmo      .mmmmmmmmmd/\n");                                                  
+printf("                                          `so:  -mmmmmmmd` `mm-       hmmmmmmmy. \n");                                                  
+printf("                                                smmmNNmm/  /Nd        -mmmmmNNy  \n");                                                  
+printf("                                               `dmmmNNmh   smo         ommNNNNm` \n");                                                  
+printf("                                               /dmmmmmm-   dm-          ymNNNNN+  \n"); 
+}
