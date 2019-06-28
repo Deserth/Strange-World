@@ -5,7 +5,7 @@ int movc1()
 {
 if ((mov == 'w') || (mov == 'W')) {
           ip = ip -1;
-          /* Se não for chao ou grama ele volta pra posicao anterior */
+          
            if ((mapa[ip][jp] != MOV) && (mapa[ip][jp] != ENEMY) && (mapa[ip][jp] != MEDIKIT) && (mapa[ip][jp] != TRAP) && (mapa[ip][jp] != AMMO) && (mapa[ip][jp] != VIDA) && (mapa[ip][jp] != SAIDA)) {
              ip = ip + 1;
              getchar(); getchar();
