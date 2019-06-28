@@ -1,0 +1,40 @@
+int cut6()
+{
+printf("                                                                                         dmoodmmmmmmddddmdmdmmmmmmmmddmm:\n");         
+printf("                                                                                         -Myo+ohmmmmmmmdddddddmmmmmmmmddmN.\n");        
+printf("                                                                                         hNoo+sosdmddddddddddddmmmmmmmdddMy \n");       
+printf("                                                                                    `.--+Mhs+ooysooyhmmddddddddddddddddddNM` \n");      
+printf("                                                                                 :ohNNNNNmh++soyyhsososhhddddddddddddddhmmm       \n"); 
+printf("                                                                               `yNmNNNNNNds+oosssssyhhhyhhhyhhhhddhddmdNNM:        \n");
+printf("                                                                               +MymNNNNNmhhssssyyssyddddmmmmmmmmmmmNNNNNNMd/`      \n");
+printf("                                                                               :MhdNNNNNdhhdhyyyhhhdddmmmmmmmmNNNNNNNNNNNNNNm-     \n");
+printf("                                                                               .MdhNNNNNmhhhhhhdddddddmmmmmmmmNNNNNNNNNNNNNNMd`    \n");
+printf("                                                                                hNhhNNNNNdhhhhhdddddddmmddmmmNNNNNNNNNMNNNNNNM.    \n");
+printf("                                                                                -MdddNNNNmhhhhhhdddddddddddmmNNNNNNmNNNNNNNNMN`    \n");
+printf("-Eu sei filho, mas eu consegui escapar, mas já faz                              .MhdhdmNmmdhhhhhhhdddddddddmmmNNNNNNNNNNNNNNMh     \n");
+printf(" cinco anos que não a vejo! -Pai                                                -MdmddhmNmdddhhhhhhddddddddmmNNNNNmNNNNNNNmNN-     \n");
+printf("-Oh não, e agora?-João                                                          .MmmddmddmmdddddhddddddddmmmNNNNNNMNNNNNNmmMo      \n");
+printf("-Creio que ela ainda esteja lá! -Pai                                            NmmmhmmmmmdddddddddddmmmmmNNNNNNNNNNNNNmNNs`      \n");
+printf("-Como iremos entrar? - João                                                   `:yhNNmmdmmmmmmdmdddddddddddmmmmmmNNNNmmmNNMd:        \n");
+printf("                                                                            `+dNmmNNmmmhddmdyyhddmddddddddddddddddddmNNdy/`         \n");
+printf("                                                                         `omMNmmNmNmmmdddso:++osyhhdddddddddddddddmNNMy-           \n");
+printf("                                                                       `/mMNmmmmmmNNNmmmdo::////++++ossdhmmmmmdhymNMNMNNh/`        \n");
+printf("                                                                      :hMNmmmmmmNmNNNNmdmy+//:://+++++/ssddhhyyoyNMNNNMNNNh-       \n");
+printf("                                                                    .yNNNmmmmmmmNNNNNNydNdy+/////++//:/ssdhysoosmMNNMMMMMMMNs.     \n");
+printf("                                                                   /mNmmmmmmmmmmNNMMNN/dNddyo+++++/+++ssyhhyosymMMMNNNNMMMMMMm+`   \n");
+printf("                                                                 `sNNmdddmddmmmmNNMNmd+NNddhhyys+o+oossyyyyyydmMMMNNNNMMMMMMMMMh-  \n");
+printf("                                                                :dNNmdddmmddmmmmNNNmdhhNNyyddhs+//osyyhyyhddmNMNNNMMNNMMNMNNNNNNNs.\n");
+printf("                                                              `oNNmdhmddmdddmmmmNMNdyydmMhoshhs++++osyhyydmNMMMMmydNMNMNNNNNNNNNmNm\n");
+printf("                                                              /MmmddddddmdddmdmmNNmyyyshNdsooyhso++ossyhdNNMMMNdyo/odNNNNNNNNNmNmmm\n");
+printf("                                                              hdhydhhdhdmdddmdmmNNyyso+sdNh+/oo+osyhhhdmNNMMMNyo//:::sNNNNmmmmmmmmd\n");
+printf("                                                              s//sdmdddhdyyhddmmNNho++++smmooo+//+shhdmNNNMMMy+/::::omMNNNmmmdddddd\n");
+printf("                                                              yymNmmmmdhhhhyhdddNNmyo+o++odhoo++++osossydmNMh/::::/yMMMMMNNNmmddmNN\n");
+printf("                                                              ddhdddddmmmdyhddddmNNmsyo+///sy++++++///+oyhhy/::/+yNNMMMMMMNNNmNNmNN\n");
+printf("                                                              hdhhhhhhddhhddhhdmNMNmhsoodhhyso++++ss////+/:/:+ymNMMNNNNNNmNmmmmmmmm\n");
+printf("                                                              ddmddhhhhhddhhhdddmNdyo+oshmddd+++shhy/:///-:+dMMNNNNNmmmmmdhdmmmmmdd\n");
+printf("                                                              hdmmdhhhddyyhhyhddys+soosoymmdds:/+yyo:::/-:yMNNdyyyhmddmmmmmmdddmddd\n");
+printf("                                                              ddhhhdhhyysyhyyss+ooosossysdmddd+-//s/::/-:hMNdhsosydNdddmNmmmmmmdhyh\n");
+printf("                                                              hhhhhyyysssyso+oosoossysssshNmdhd/-:+d++--yMNhssoyydmNddmmmmmmmmmmmmd\n");
+printf("                                                              dyyysyssyyyooosooss+osoyos/omNmddm+:/ms/:oMNdssoyyhdNNdmmmmNNmmmmmmmm\n");
+printf("                                                              hhyyyyyssysssoosssssss+oo++shNNmddmo+Ns::mNdd+oyyymNNNhdmmmmmmmmNmmmm\n");
+}

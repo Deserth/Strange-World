@@ -1,0 +1,40 @@
+int cut13()
+{
+printf("                                               -dmmy+:`                                                             \n");              
+printf("                                                oNNNmyhhhs/-`                                     .+ydmmmddhyo/-  \n");                 
+printf("                                                :NMMNyoooosydyy-                                /yNNMMMMMNMNNNMNd+`    \n");            
+printf("                                                 .sNNmdyoo+/sdds+                             .hNMNNNMMMMNNMMMMMMNd:        \n");       
+printf("                                                   -mNsyhhddyyyyy`                           :NMMMMMMNNdhhdmNMMMMMmd:            \n");  
+printf("        NÃO ME OBRIGUE A FAZER ISSO!                .mMNoyMMMNoo++:                          /NMMMNNNmhyyyyhhdNMMMMNdh`             \n");
+printf("                                                   `dNMmhmMMMysoos:-`                      `mMMMMNNdyyyyyhddmmNMMMMdds             \n");
+printf("        VC NUNCA FARIA ISSSSS.........              :NMMNNNMMmmddmdhy.                     +MMMNmmNhyhhddNNMMMNhMMMmmh-            \n");
+printf("                                                    :NMMMMMMNNNNNMMmds.                    oMMNMMMMNNNdmNMMMMMNdMMNmmh/            \n");
+printf("        DESCULPA, MAS VC NAO PODE TIRAR              :mNNMMMMMMMMNyMMMMy:                   +NMNMMNNNNdydNNNNmNNNMMNdmh+            \n");
+printf("        O PODER QUE EU CONQUISTEI!- Carol            `dNMMMMMMMMMNhMMMMh+                   -NMMMNmmmmddmmmdmmmmNNMNmNd:            \n");
+printf("                                                     -mNNMMMMMMNNdMMMMd+/                   yMMMNmdhhddmmddddmmNNMmNMd             \n");
+printf("                                                      -dNMMMMMmdhdMMMmdds-                  .dMMMmdhdddmmmmmmmmmmNMMm:             \n");
+printf("                                                       `oNNMMNNNdmNmdddddd/                  .hMMNmdddmmmmmmmmmmmmNh:              \n");
+printf("                                                         /mNNhdmddddddddmmy+-`                `:hmNmddhhdmmmNNmms/-`               \n");
+printf("                                                          ..+hmdddddddddddhyoo/-.             `/hdmNNNNNNNNNNNNmmy:                \n");
+printf("                                                             `+dddddddddddodo//so+o+:-.-///+syyhdmmmmNMMMMNNNNNNNMNo`              \n");
+printf("                                                               -hddddddddd+dd:/+hosssyys+syshhddhhdddmNNNNMNNmMMNNMmo`             \n");
+printf("                                                                -hddddddddsddyysyohyhhyyysyyhdhddhhhhhddmmmmNNMMmmMmd/             \n");
+printf("                                                                 :ddddddddhmddddmyhdyhhhhhhhhhhhhddhyyyhhhmNmmmmdhmmmhs:           \n");
+printf("                                                                  oddddddddddmmmmhhmdhhhdddhhhhhyhhhhyyyhdMNmmmmmddmmNNh.`         \n");
+printf("                                                                   /yddddddmmmNhdddmmmmmmmmdmdhhyyyyyhddhdMMNdmmNNNNmMNyoso-       \n");
+printf("                                                                    `:ohddmmmmmddmdmmmmmmmmNNmddhhyyyyyhddmmNhhdmmNmydNd/+os-      \n");
+printf("                                                                       .:shhdddddmdmmmmmmmmNNmdddhhhyyyssyydmsyysoss++sy/o++o/     \n");
+printf("                                                                           .-::+hddddmmmmmNNmmmddhhhhyssssyhmo+os++++o+++ooosh.    \n");
+printf("                                                                                .sddddmmNNNNmdddddhhyyyysssdmdyoooososso+ooosy-    \n");
+printf("                                                                                  /dmmmmmmmmmmddddddhyyyyyyhyhhhhyysoooosooos+:    \n");
+printf("                                                                                   .hmmmmmmmmmmdddddddhhyyyhyyyyyssyhyyysssoyso`   \n");
+printf("                                                                                    `ymmmmmmmmmddddhddddddhhhhyyyyyssyyhdmmmhyoo.  \n");
+printf("                                                                                     `sdmmmmmmmmdddhhhhhhhdddhhyyyyyyyyyhhdmmNNdy: \n");
+printf("                                                                                       ydmmmmmmmdddddddhhhhhhhhhhhhhhhhhhhhddmNNNd.\n");
+printf("                                                                                       +dmmmmmmmmmdddddddhhdhhhhdddmddhdddddddmmNN+\n");
+printf("                                                                                       `ymmmmmmmmmmmdddddddhhhhdddNNNmdddddddmmNNN/\n");
+printf("                                                                                        +mmmmmmmmmmmdddddddhdddddddmmmddddddddmNNN-\n");
+printf("                                                                                        `dmmmmmmmmmdddddhhddddddddmmmmmmmmddddmmmd \n");
+printf("                                                                                         -mmmmmmmmmmdddddddddddddmmmmmmmmmmmddddm/ \n");
+printf("                                                                                          odmmmmmmmmmmddddddddddmmmmmmmmmmmddddmh\n");
+}
